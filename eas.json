@@ -1,13 +1,4 @@
 {
-  {
-  "build": {
-    "production": {
-      "distribution": "store",
-      "node": "20.16.0"
-    }
-  
-
-  },
   "build": {
     "development": {
       "distribution": "internal",
@@ -22,7 +13,8 @@
       "distribution": "internal"
     },
     "production": {
-      "distribution": "store"
+      "distribution": "store",
+      "node": "20.16.0"
     }
   },
   "submit": {
