@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "NeedA",
-    "slug": "needa",
+    "slug": "mwape-2007",
+    "owner": "needa2026",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -38,6 +39,11 @@
         }
       ]
     ],
-    "scheme": "needa"
+    "scheme": "needa",
+    "extra": {
+      "eas": {
+        "projectId": "b6d950e5-a87a-4e39-95e3-736f32fd04ad"
+      }
+    }
   }
 }
